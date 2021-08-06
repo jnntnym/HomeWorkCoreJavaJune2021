@@ -48,7 +48,7 @@ public class Sister {
 		int totalAge3 = age1+  age2+  age3+  age5+ age6;
 		System.out.println("This is Return and final type Parameterized method");
 		System.out.println("Total age is: "+totalAge3);
-		return age6;
+		return totalAge3;
 	}
 	
 // What is method Overloading:

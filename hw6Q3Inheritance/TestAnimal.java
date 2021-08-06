@@ -58,11 +58,11 @@ public class TestAnimal {
 		snake.animalInfo(); // Possible calls
 
 		/*
-		 * COMMENTS: 1. Mammal extends Animal; Reptile extends Animal; Birds extends
-		 * Animal >> they are called 'Hierarchical' inheritance 2. Robin extends Birds;
-		 * Birds extends Animal >> they are called ' Multilevel inheritance 3. BullDog
-		 * extends Dog; OR Cobra extends Snake >> this is called 'Single' inheritance 4.
-		 * Animal is a Parent class and Mammal , Reptile and Birds is a Child class of
+		 * COMMENTS: 
+		 * 1. Mammal extends Animal; Reptile extends Animal; Birds extends Animal >> they are called 'Multilevel inheritance'  
+		 * 2. Robin extends Birds; Birds extends Animal >> they are called ' Hierarchical' inheritance' 
+		 * 3. BullDog extends Dog; OR Cobra extends Snake >> this is called 'Single' inheritance 
+		 * 4. Animal is a Parent class and Mammal , Reptile and Birds is a Child class of
 		 * Parent Class(Animal).
 		 */
 	}

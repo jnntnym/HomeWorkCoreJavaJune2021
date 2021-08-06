@@ -39,6 +39,5 @@ public class Father {
 		System.out.println("This is Parameterized method from Father class");
 		System.out.println("Name: "+name+" Age :"+age+" Sex: "+sex+ " isUSCitizen?: "+usCitizen);
 	}
-	
 
 }

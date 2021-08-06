@@ -114,7 +114,7 @@ public class TestInstitute {
 		ns.mechanicalLab();
 		ns.physics();
 		ns.statistics();
-
+		
 	}
 
 }
